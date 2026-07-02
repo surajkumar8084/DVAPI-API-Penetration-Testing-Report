@@ -66,7 +66,7 @@ A full authentication bypass was achieved by:
 ## 📄 Full Report
 
 The complete report with all proof-of-concept screenshots, per-vulnerability remediation, and OWASP references is available here:
-👉 [`DVAPI_VAPT_Report.pdf`](./DVAPI_VAPT_Report.pdf)
+👉 [`DVAPI_VAPT_Report.pdf`](https://github.com/surajkumar8084/DVAPI-API-Penetration-Testing-Report/blob/main/DVAPI%20-%20API%20Penetration%20Testing%20Report.pdf)
 
 ---
 
